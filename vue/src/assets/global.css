@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+}
+
+*{
+    box-sizing: border-box; /*设置盒状模型*/
+}
+
+th {
+    background-color: aliceblue !important;
+}
